@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "STGtoDB", "STGtoDB\STGtoDB.dtproj", "{6E5EECD4-05D7-44A1-B059-091AA956BC6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E5EECD4-05D7-44A1-B059-091AA956BC6C}.Development|Default.ActiveCfg = Development
+		{6E5EECD4-05D7-44A1-B059-091AA956BC6C}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51E10C2D-66DF-452F-9916-A8A0A9BFE0AF}
+	EndGlobalSection
+EndGlobal
